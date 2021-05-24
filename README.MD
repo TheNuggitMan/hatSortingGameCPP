@@ -5,6 +5,10 @@ Taken from Harry Potter, this C++ program asks 4 questions and stores the answer
 
 I have included a While loop over the whole game, so if an incorrect input is presented as an answer (number out of range), then the game explains error and asks to confirm an input before restarting fresh.
 
+- [x] Complete the game.
+- [x] Add restart ability
+- [ ] Add RegEx validation, on incorrect answer input.
+
 Languages
 -----
 C++
